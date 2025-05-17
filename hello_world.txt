@@ -1,1 +1,2 @@
 Hello Edgar
+Ready for the Odin Project
